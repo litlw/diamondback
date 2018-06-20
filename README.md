@@ -1,4 +1,30 @@
+<style>
+body{
+  text-align: center;
+}
+</style>
+<img src="src/assets/images/diamondback_logo.png">
 # Diamondback
+
+  This tool is the brainchild of Hugh Ritchie. The intent of this project is that there will be a beautiful tool that allows users to template their own dashboards, provide business insights, and be able to extend beyond the reaches of mere tableau-era data analytic tools.
+
+  Current Version: 1.0.0.0
+
+-------
+**NOTES**
+
+Project Goals (Short Term):
+- current version is building a dashboard
+- next step is to make that dashboard into templatable objects
+
+
+Change Log:
+
+
+Issues:
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
